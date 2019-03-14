@@ -1,7 +1,7 @@
 # **FAUCETIUM** [![Build Status](https://travis-ci.org/FAUCETIUM/FAUCETIUM.svg?branch=FAUCETIUM0.11.3)](https://travis-ci.org/FAUCETIUM/FAUCETIUM) [![GitHub version](https://badge.fury.io/gh/FAUCETIUM%2FFAUCETIUM.svg)](https://badge.fury.io/gh/FAUCETIUM%2FFAUCETIUM)
-<img src="http://i.imgur.com/5EAaA7b.png" width="400">
+<img src="https://i.imgur.com/4J54NeA.png" width="400">
 
-[http://www.FAUCETIUM.com](http://www.FAUCETIUM.com)
+[https://www.faucetium.com](https://www.faucetium.com)
 ### **What is it?**
 
 **FAUCETIUM** is a Cryptocurrency just like Bitcoin, but with one major difference. It pays interest on every balance. This is to recognize the importance of **FAUCETers** and properly reward them for **FAUCETing**.
